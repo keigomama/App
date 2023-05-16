@@ -31,7 +31,7 @@ struct ContentView: View {
                 Button(action: {
                     print("day")
                 },label: {
-                    Text("d")
+                    Text("D")
                 })
                 .buttonStyle(BS_UP())
 
